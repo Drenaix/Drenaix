@@ -1,9 +1,4 @@
-### Hi there 👋
-
-
-**Drenaix/Drenaix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there 👋 I'm Krister a certified Data Analyst living in based in germany!
 
 - 🔭 I’m currently working on HTB & Rasberry pi5 Homelab
 - 🌱 I’m currently learning Pentesting by eJPT 
