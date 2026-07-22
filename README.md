@@ -1,6 +1,7 @@
-### Hi there 👋 Welcome! I'm Krister Pipoh, a Certified Data Analyst by Codecademy. Combining analytical skills with a passion for technology, specifically in Data Science
+### Hi there 👋 I'm Krister Pipoh
 
-- 🔭 I’m currently working on Data Camp & Rasberry pi5 Homelab
-- 🌱 I’m currently learning Machine Learning by Data Camp 
-- 📫 How to reach me: Write me on LinkedIn
+Data Analyst & IT Infrastructure Enthusiast based in Germany. I enjoy turning complex data into insights while keeping the underlying systems scalable and automated.
 
+* 🔭 **Current Focus:** ESP32 with [BirdNET](https://birdnet.cornell.edu)
+* 💡 **Check out my Blog:** I share insights about my homelab and projects over at [pipoh.eu](https://pipoh.eu).
+* 📫 **Contact:** [Message me on LinkedIn]([https://www.linkedin.com/in/YOUR-LINKEDIN-URL](https://www.linkedin.com/in/kristerpipoh/))
